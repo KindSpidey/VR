@@ -1,0 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0b9510ff9cecaad48970ade7ef71c9e1
+# Starting compiling UnityEngine.UI.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fc81c9d1cebf2b741a3172a4b2b095d0
+# Starting compiling UnityEditor.TestRunner.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cc509afea81e3d041bebfcf63f24bf81
+# Starting compiling UnityEditor.UI.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-97aaf12a95d71a44eb64fc9b0112e364
+# Starting compiling Unity.VSCode.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-65a0bfb71d5eb9541b93c69885b69f59
+# Starting compiling Unity.VisualStudio.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-719e6b51f5fceda45b9b808919afb96c
+# Starting compiling Unity.Timeline.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4e8468e9f15e6a04ba0f298de256b307
+# Starting compiling Unity.TextMeshPro.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4930b288424e5d34f84bec58d2e885dd
+# Starting compiling Unity.CollabProxy.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-57a148ed00370314ea2808571ac81731
+# Starting compiling Unity.Rider.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1af18715cb8894041b3c06659d48d4dd
+# Starting compiling Unity.Timeline.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fcc02d0580fc80d4f839c7d9cd94a514
+# Starting compiling Unity.TextMeshPro.Editor.dll
+J:\Programs\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c9c9ce2a059e9fa44bfda2d7e8f9cd17
